@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aidmarketingagency.github.io/fort-mill-plumbing-demo-d12/sitemap.xml
